@@ -1,14 +1,20 @@
 [
   {
     "name": "Sunset View",
-    "url": "https://i.postimg.cc/SsD2C3mj/minimalist-mobile.jpg"
+    "url": "https://i.postimg.cc/sfQDPG6X/anime-art-of-grass-ground-boy.jpg",
+    "category": "ANIME",
+    "tags": ["anime", "sunset", "boy", "nature", "sky"]
   },
   {
-    "name": "Neon Car 1",
-    "url": "https://i.postimg.cc/PfQ8kLZx/futuristic-samurai.jpg"
+    "name": "Futuristic Samurai",
+    "url": "https://i.postimg.cc/PfQ8kLZx/futuristic-samurai.jpg",
+    "category": "GAMING",
+    "tags": ["gaming", "samurai", "neon", "cyberpunk", "dark"]
   },
   {
-    "name": "Neon Car 2",
-    "url": "https://i.postimg.cc/sfQDPG6X/anime-art-of-grass-ground-boy.jpg"
+    "name": "Minimalist Mobile",
+    "url": "https://i.postimg.cc/SsD2C3mj/minimalist-mobile.jpg",
+    "category": "MINIMAL",
+    "tags": ["minimal", "clean", "dark", "amoled", "mobile"]
   }
 ]
