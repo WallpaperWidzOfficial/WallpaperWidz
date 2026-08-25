@@ -16,5 +16,89 @@
     "url": "https://i.postimg.cc/SsD2C3mj/minimalist-mobile.jpg",
     "category": "MINIMAL",
     "tags": ["minimal", "clean", "dark", "amoled", "mobile"]
+  },
+  {
+    "name": "Fantasy World",
+    "url": "https://i.postimg.cc/8zg2RNDv/13517-jpg.jpg",
+    "category": "FANTASY",
+    "tags": ["fantasy", "magic", "dream", "art", "scenery"]
+  },
+  {
+    "name": "Game Zone",
+    "url": "https://i.postimg.cc/W1mQSCb1/13519-jpg.jpg",
+    "category": "GAMING",
+    "tags": ["gaming", "game", "action", "gamer", "cool"]
+  },
+  {
+    "name": "Deep AMOLED",
+    "url": "https://i.postimg.cc/sgCkYsyg/13525-jpg.jpg",
+    "category": "AMOLED",
+    "tags": ["amoled", "black", "dark", "minimal", "clean"]
+  },
+  {
+    "name": "Dark Shadow",
+    "url": "https://i.postimg.cc/2SdPTM88/13532-jpg.jpg",
+    "category": "DARK",
+    "tags": ["dark", "black", "shadow", "moody", "minimal"]
+  },
+  {
+    "name": "Night Vibes",
+    "url": "https://i.postimg.cc/GmPZzVh4/13534-jpg.jpg",
+    "category": "DARK",
+    "tags": ["dark", "night", "black", "cool", "aesthetic"]
+  },
+  {
+    "name": "Anime World",
+    "url": "https://i.postimg.cc/kgNkwzXb/13539-jpg.jpg",
+    "category": "ANIME",
+    "tags": ["anime", "art", "character", "japanese", "cool"]
+  },
+  {
+    "name": "Anime Horizon",
+    "url": "https://i.postimg.cc/Vk934pLn/13556-jpg.jpg",
+    "category": "ANIME",
+    "tags": ["anime", "scenery", "sky", "art", "aesthetic"]
+  },
+  {
+    "name": "Abstract Wave",
+    "url": "https://i.postimg.cc/XYKTxm7w/13561-jpg.jpg",
+    "category": "ABSTRACT",
+    "tags": ["abstract", "art", "colors", "modern", "design"]
+  },
+  {
+    "name": "Abstract Pattern",
+    "url": "https://i.postimg.cc/fR765pTv/13563-jpg.jpg",
+    "category": "ABSTRACT",
+    "tags": ["abstract", "pattern", "creative", "texture", "minimal"]
+  },
+  {
+    "name": "Neon Abstract",
+    "url": "https://i.postimg.cc/FHb2G8sG/13572-jpg.jpg",
+    "category": "ABSTRACT",
+    "tags": ["abstract", "neon", "glowing", "art", "cool"]
+  },
+  {
+    "name": "Dark Aesthetic",
+    "url": "https://i.postimg.cc/GmPZzVhX/13578-jpg.jpg",
+    "category": "DARK",
+    "tags": ["dark", "black", "aesthetic", "minimal", "amoled"]
+  },
+  {
+    "name": "Anime Dreams",
+    "url": "https://i.postimg.cc/bv34fnnr/Chat-GPT-Image-Aug-25-2026-11-18-08-PM.png",
+    "category": "ANIME",
+    "tags": ["anime", "ai art", "fantasy", "character", "aesthetic"]
+  },
+  {
+    "name": "Anime Vision",
+    "url": "https://i.postimg.cc/rpQ72441/Chat-GPT-Image-Aug-25-2026-11-18-38-PM.png",
+    "category": "ANIME",
+    "tags": ["anime", "ai art", "cool", "scenery", "vibrant"]
+  },
+  {
+    "name": "Space Nature",
+    "url": "https://i.postimg.cc/Tw1FdPjg/nature-space.jpg",
+    "category": "NATURE",
+    "tags": ["nature", "space", "galaxy", "stars", "sky"]
   }
 ]
