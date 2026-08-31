@@ -33,28 +33,15 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>HOME SCREEN</b><br/><br/>
-        <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="180" alt="Home Screen" />
-      </td>
-      <td align="center">
-        <b>WALLPAPERS</b><br/><br/>
-        <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="180" alt="Preview Screen" />
-      </td>
-      <td align="center">
-        <b>CATEGORIES</b><br/><br/>
-        <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="180" alt="Categories" />
-      </td>
-      <td align="center">
-        <b>APPLY PROCESS</b><br/><br/>
-        <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="180" alt="Apply Menu" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="45%" alt="HOME SCREEN" />
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="45%" alt="WALLPAPERS" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="45%" alt="CATEGORIES" />
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="45%" alt="APPLY PROCESS" />
+</p>
 
 ---
 
