@@ -33,12 +33,16 @@
 
 ## 📸 Screenshots
 
-<p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="220" alt="Home Screen" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="220" alt="Wallpapers" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="220" alt="Categories" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="220" alt="Apply Process" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="230" alt="Home Screen"></td>
+      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="230" alt="Wallpapers"></td>
+      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="230" alt="Categories"></td>
+      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="230" alt="Apply Process"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
