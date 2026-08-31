@@ -33,12 +33,12 @@
 
 ## 📸 Screenshots
 
-<div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="220" alt="HOME SCREEN" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="220" alt="WALLPAPERS" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="220" alt="CATEGORIES" />
-  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="220" alt="APPLY PROCESS" />
-</div>
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="220" alt="Home Screen" />
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="220" alt="Wallpapers" />
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="220" alt="Categories" />
+  <img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="220" alt="Apply Process" />
+</p>
 
 ---
 
